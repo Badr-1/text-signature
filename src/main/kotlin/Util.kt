@@ -4,12 +4,8 @@ import java.io.File
 import java.nio.file.Paths
 import kotlin.math.roundToInt
 
-val path = Paths.get("").toAbsolutePath().toString()
-val separator: String = File.separator
-val pathToSrc =
-    "${path}${separator}src${separator}main${separator}resources${separator}fonts${separator}"
-val roman = Font("${pathToSrc}roman.txt", 10)
-val medium = Font("${pathToSrc}medium.txt", 5)
+val roman = Font("roman.txt", 10)
+val medium = Font("medium.txt", 5)
 
 const val WHITE = "#ffffff"
 fun getFontOf(what: String): Font {

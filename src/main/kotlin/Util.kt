@@ -1,7 +1,5 @@
 import com.github.ajalt.mordant.rendering.TextColors.*
 import com.github.ajalt.mordant.rendering.TextColors.Companion.rgb
-import java.io.File
-import java.nio.file.Paths
 import kotlin.math.roundToInt
 
 val roman = Font("roman.txt", 10)

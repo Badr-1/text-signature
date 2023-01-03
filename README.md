@@ -22,16 +22,10 @@ https://user-images.githubusercontent.com/61839948/210230837-343191b8-b9a2-4766-
 - Change Border Style 🔳
 - Change Fonts ✍
 
-## Screenshots
+## Demo
 
-![default display](screenshots/default-display.png)
-![trial](screenshots/trial.png)
-![coloring](screenshots/coloring.png)
-![border-style](screenshots/border-style.png)
-
+[Demo](https://user-images.githubusercontent.com/61839948/210418795-6a8e93fd-3f31-42c3-9956-6ba2e77d910e.mp4)
 
 ## How Can It Be Improved?
 
 It would be Great If artistic people contributed by adding new fonts, as two fonts isn't really that much.
-
-User Input Also could be improved
